@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-mfe-root';
+  elementUrlUser = 'http://localhost:9001/main.js';
+  elementUrlUserDetails = 'http://localhost:9002/main.js';
 }
